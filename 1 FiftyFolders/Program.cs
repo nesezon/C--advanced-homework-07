@@ -23,6 +23,8 @@ namespace FiftyFolders {
           Console.WriteLine(e.Message);
         }
       }
+      
+      Console.ReadKey();
     }
   }
 }
