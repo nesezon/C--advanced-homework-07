@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 FiftyFolders", "1 FiftyFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 InFileOutFile", "2 InFileOutFile\2 InFileOutFile.csproj", "{F34B8D91-F4F6-492E-9362-0A3483B4D9D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 FindShowCompressFile", "3 FindShowCompressFile\3 FindShowCompressFile.csproj", "{90F410CF-7CB3-46EC-96FE-0F32DF5DDBD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F34B8D91-F4F6-492E-9362-0A3483B4D9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F34B8D91-F4F6-492E-9362-0A3483B4D9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F34B8D91-F4F6-492E-9362-0A3483B4D9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F410CF-7CB3-46EC-96FE-0F32DF5DDBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F410CF-7CB3-46EC-96FE-0F32DF5DDBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F410CF-7CB3-46EC-96FE-0F32DF5DDBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F410CF-7CB3-46EC-96FE-0F32DF5DDBD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
