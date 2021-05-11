@@ -13,7 +13,7 @@ namespace InFileOutFile {
 
         // Создаю новый файл и пишу в него
         using (FileStream fs = File.Create(fileName)) {
-          using (StreamWriter sw = new StreamWriter(fs, Encoding.Unicode)) {
+          using (StreamWriter sw = new StreamWriter(fs, Encoding.UTF8)) {
             sw.WriteLine("Первая строка текста...");
             sw.WriteLine("Вторая строка текста...");
             sw.Write(sw.NewLine);
